@@ -16,10 +16,10 @@ const mySum = function (x, y) {
 */
 
 /* ------------- 函数声明（Function Declaration） ------------- */
-function sum(x: number, y: number): number {
+function summy(x: number, y: number): number {
   return x + y;
 }
-console.log(sum(1, 2)); // 3
+console.log(summy(1, 2)); // 3
 
 // 实参不能多或者少
 // console.log(sum(1)) //应有 2 个参数，但获得 1 个
