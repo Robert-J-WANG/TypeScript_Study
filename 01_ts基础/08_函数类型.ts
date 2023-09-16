@@ -122,3 +122,4 @@ function fn3(x: number | string, y: number | string): any {
   }
 }
 console.log(fn3("1", "2"));
+console.log(fn3(1, 2));

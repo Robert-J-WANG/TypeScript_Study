@@ -73,3 +73,4 @@ function fn3(x, y) {
     }
 }
 console.log(fn3("1", "2"));
+console.log(fn3(1, 2));
